@@ -1,2 +1,2 @@
 # Wireless-Communications
-A Python Project devoted to Simulations/Calculations of Wireless Communications Systems
+Python & Matlab programs devoted to Simulations/Calculations of Wireless Communications Systems
